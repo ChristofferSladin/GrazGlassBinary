@@ -1,0 +1,3 @@
+﻿using GrazGlassBinary;
+
+GrazzGlassBinary.Run();
